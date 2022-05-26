@@ -1,0 +1,16 @@
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\bin\Debug\net5.0\CSharpVer9ImmutableAutoProperty.exe
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\bin\Debug\net5.0\CSharpVer9ImmutableAutoProperty.deps.json
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\bin\Debug\net5.0\CSharpVer9ImmutableAutoProperty.runtimeconfig.json
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\bin\Debug\net5.0\CSharpVer9ImmutableAutoProperty.runtimeconfig.dev.json
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\bin\Debug\net5.0\CSharpVer9ImmutableAutoProperty.dll
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\bin\Debug\net5.0\CSharpVer9ImmutableAutoProperty.pdb
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\CSharpVer9ImmutableAutoProperty.csproj.AssemblyReference.cache
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\CSharpVer9ImmutableAutoProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\CSharpVer9ImmutableAutoProperty.AssemblyInfoInputs.cache
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\CSharpVer9ImmutableAutoProperty.AssemblyInfo.cs
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\CSharpVer9ImmutableAutoProperty.csproj.CoreCompileInputs.cache
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\CSharpVer9ImmutableAutoProperty.dll
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\refint\CSharpVer9ImmutableAutoProperty.dll
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\CSharpVer9ImmutableAutoProperty.pdb
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\CSharpVer9ImmutableAutoProperty.genruntimeconfig.cache
+C:\Users\Miraj Shah\source\repos\CSharpVer9ImmutableAutoProperty\obj\Debug\net5.0\ref\CSharpVer9ImmutableAutoProperty.dll
